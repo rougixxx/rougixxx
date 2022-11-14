@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bahaa-eddine-mb&label=Profile%20views&color=0e75b6&style=flat" alt="rougixxx" /> </p>
 - 👋 Hi, I’m @rougixxx
 - 👀 I’m interested in Web Development, Redhat, Networking(Cisco) ,Cyber security, cloud, Automation
 - 🌱 I’m currently learning Web Dev, Cyber security and redhat
