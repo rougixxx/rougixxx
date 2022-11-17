@@ -7,8 +7,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: [Facebook](https://web.facebook.com/rougi.gi.9/) | [LinkedIn](https://www.linkedin.com/in/mohamed-remmane-877923247/) | Email: m.remmane@esi-sba.dz 
 
-[<img src='https://icons8.com/icon/114445/linkedin-circled' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-remmane-877923247/)  
-
 
 <!---
 rougixxx/rougixxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
