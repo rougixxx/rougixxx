@@ -5,7 +5,7 @@
 
 
 - 👀 I’m interested in Web Development, Redhat and System administration , Networking(Cisco) ,Cyber security
-- 🌱 I’m currently learning React js and tailwind
+- 🌱 I’m currently learning React js and tailwindcss
 - 📫 How to reach me:  m.remmane@esi-sba.dz 
 
 <h3 align="left">Connect with me:</h3>
