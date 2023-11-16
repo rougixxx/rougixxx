@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rougixxx&label=Profile%20views&color=0e75b6&style=flat" alt="rougixxx" /> </p>
 
 
-- 👀 I’m interested in Web Development, Redhat and System administration , Networking(Cisco) ,Cyber security
-- 🌱 I’m currently learning React js.
+- 👀 I’m interested in everything related to Front-end dev, Networking, Linux-World and Sys-administration, Embedded Systems, Cyber Security.
+- 🌱 I’m currently learning Nextjs and Python.
 - 📫 How to reach me:  m.remmane@esi-sba.dz 
 
 <h3 align="left">Connect with me:</h3>
