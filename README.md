@@ -42,12 +42,12 @@
 
 <h2 align="left">Stats: </h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rougixxx&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=rougixxx&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
   <br clear="both">
   <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api?username=rougixxx&hide_title=false&hide_rank=false&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&custom_title=My%20Github%20Stats" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rougixxx&hide_title=false&hide_rank=false&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&custom_title=My%20Github%20Stats" height="160" alt="stats graph"  />
   <img width="50" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rougixxx&locale=en&hide_title=false&hide_border=true&layout=compact&card_width=320&langs_count=5&theme=radical" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rougixxx&locale=en&hide_title=false&hide_border=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox" height="160" alt="languages graph"  />
   <br clear="both">
   <br clear="both">
   <img alt="followers" src="https://img.shields.io/github/followers/rougixxx?label=Followers&style=social">
