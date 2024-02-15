@@ -21,12 +21,10 @@
   <a href="https://www.linkedin.com/in/mohamed-remmane-877923247/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-    <a href="mailto:i.benhammadi@esi-sba.dz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X account&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://discord.com/users/682623938115010667" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.facebook.com/0ilyas.benhammadi0/" target="_blank">
+    <a href="https://twitter.com/dean_rougi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+      
+  <a href="https://www.facebook.com/rougi.gi.9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
