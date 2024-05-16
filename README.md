@@ -37,6 +37,9 @@
 <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png" height="40" alt="django logo"  />
+  
+  
 </p>
 <br clear="both">
 
