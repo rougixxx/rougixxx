@@ -9,8 +9,8 @@
 
 <h2 align="left">About Me:</h2>
 
-- 👀 I’m interested in everything related to Front-end dev, Networking, Linux-World, Embedded Systems, Cyber Security.
-- 🌱 I’m currently learning Nextjs.
+- 👀 I’m interested in everything related to  Networking, Linux, Cyber Security.
+- 🌱 I’m currently learning Pentesting.
 - 💬 Ask me about anything related to Networking and Linux.
 - 📫 How to reach me:  m.remmane@esi-sba.dz. 
 
